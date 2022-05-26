@@ -12,7 +12,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'com.github.kisaragieffective'
-version = '1.0.2'
+version = '1.0.3'
 
 java {
     archivesBaseName = 'xaero-map-null-potion'
