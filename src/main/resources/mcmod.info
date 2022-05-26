@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "xaero-map-null-potion",
+    "name": "Xaero's map compat null potion",
+    "description": "You don't get Unidentified mapping from registry minecraft:potions from Xaero's map anymore!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/KisaragiEffective/xaero-map-null-potion",
+    "updateUrl": "",
+    "authorList": [
+      "KisaragiEffective"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
